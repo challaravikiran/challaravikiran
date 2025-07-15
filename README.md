@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github.com/challaravikiran/myprofile/blob/main/Gitbanner.png" alt="GitHub Banner" width="1200"/>
+    <img src="https://github.com/challaravikiran/challaravikiran/blob/main/Gitbanner.png" alt="GitHub Banner" width="1200"/>
 </div>
 
 # 👋 Hi, I'm Ravikiran Challa
