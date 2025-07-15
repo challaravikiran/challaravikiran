@@ -47,7 +47,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 ### 💼 Career Snapshot
 
 - 🏢 **Q-Talent** – *Senior DevOps Engineer*  
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
+  •	Streamlined infrastructure management through automation using industry-leading tools such as Ansible, Kubernetes, and Terraform.
 
 - 🏢 **Janah AL MAdina IT Services** – *Senior DevOps Engineer*  
   Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
